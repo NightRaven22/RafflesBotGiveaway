@@ -6,8 +6,8 @@ from aiogram.utils import executor
 
 # Инициализация бота и диспетчера
 bot_token = ""
-admin_ids = [6325703179, 6619291376]
-group_id = -1002195059679
+admin_ids = [1, 2]
+group_id = 
 
 bot = Bot(token=bot_token)
 dp = Dispatcher(bot)
